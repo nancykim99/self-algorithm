@@ -1,4 +1,4 @@
-// BOJ10430 : 사칙연산 (B5)
+// BOJ10430 : 나머지 (B5)
 
 #include <iostream>
 using namespace std;
